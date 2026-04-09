@@ -157,3 +157,92 @@ I'm currently looking for **remote freelance/contract work** in:
 > "Build systems that scale, automate what repeats, and optimize everything."
 
 ⭐ From [Drajat Sukma](https://github.com/Ajatfnr21)
+
+
+---
+
+## 🌟 New Open Source Projects (10 Useful Tools)
+
+### 6. [Webhook Relay](https://github.com/Ajatfnr21/webhook-relay) 🌐
+Route webhooks to multiple destinations with filtering, transformation, and retry logic. Self-hosted Zapier alternative.
+
+- 🎯 Multi-destination routing (Slack, Discord, Telegram)
+- 🔍 Smart filtering with JSONPath
+- 🔄 Dead letter queue for failed deliveries
+- ⚙️ FastAPI, Redis, Async
+
+### 7. [Smart File Organizer](https://github.com/Ajatfnr21/smart-file-organizer) 📁
+AI-powered automatic file organization. Never have a messy Downloads folder again.
+
+- 🤖 AI content detection
+- 📅 Smart date sorting
+- 🔄 Real-time folder monitoring
+- ⚙️ Python, Watchdog, ML
+
+### 8. [DB Backup Pro](https://github.com/Ajatfnr21/db-backup-pro) 💾
+Automated database backups with compression, encryption, and cloud storage.
+
+- 🗄️ PostgreSQL, MySQL, MongoDB, Redis support
+- 🔐 AES-256 encryption
+- ☁️ S3, GCS, Azure, Dropbox integration
+- ⚙️ Python, Boto3, Cryptography
+
+### 9. [Log Aggregator Lite](https://github.com/Ajatfnr21/log-aggregator-lite) 📊
+Lightweight log aggregation and analysis. The ELK stack alternative for small teams.
+
+- 📥 Multi-source collection (Syslog, Docker, APIs)
+- 🔍 Full-text search with SQLite FTS5
+- 📈 Real-time dashboard
+- ⚙️ FastAPI, SQLite, WebSockets
+
+### 10. [URL Shortener Pro](https://github.com/Ajatfnr21/url-shortener-pro) 🔗
+Self-hosted URL shortener with analytics, custom domains, and QR codes.
+
+- ⚡ < 5ms redirect time
+- 📊 Detailed analytics (clicks, countries, devices)
+- 📱 QR code generator
+- ⚙️ FastAPI, Redis, SQLAlchemy
+
+### 11. [Finance Tracker](https://github.com/Ajatfnr21/finance-tracker) 💰
+Open source personal finance management. Mint/YNAB alternative.
+
+- 💳 Multi-account support
+- 🏷️ Smart categorization
+- 📊 Visual analytics and budgeting
+- ⚙️ Django, DRF, Plotly
+
+### 12. [Homelab Dashboard](https://github.com/Ajatfnr21/homelab-dashboard) 🏠
+Monitor all your self-hosted services in one beautiful dashboard.
+
+- 🐳 Docker integration
+- 📊 System metrics for all nodes
+- 🔔 Service health monitoring
+- ⚙️ FastAPI, Docker SDK, WebSockets
+
+### 13. [Form Backend](https://github.com/Ajatfnr21/form-backend) 📋
+Form backend as a service. Alternative to Typeform/Google Forms.
+
+- 📝 HTML form endpoint
+- 📧 Email notifications
+- 🚫 Built-in spam protection
+- ⚙️ FastAPI, Jinja2, SQLite
+
+### 14. [Notification Bridge](https://github.com/Ajatfnr21/notification-bridge) 🔔
+Unified notification hub. Bridge Discord, Slack, Telegram, WhatsApp, Email.
+
+- 🌉 Multi-platform support
+- 🔄 Smart routing and fallbacks
+- 📊 Delivery tracking
+- ⚙️ FastAPI, Redis, Multiple SDKs
+
+### 15. [Open API Gateway](https://github.com/Ajatfnr21/open-api-gateway) 🚪
+Self-hosted API Gateway with rate limiting, auth, caching. Kong alternative.
+
+- 🚦 Rate limiting and throttling
+- 🔐 JWT, API key, OAuth2 auth
+- 💾 Smart caching with Redis
+- ⚙️ FastAPI, Redis, JWT
+
+---
+
+⭐ Star my projects if they help you!
