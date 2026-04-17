@@ -1,8 +1,30 @@
-# 👋 Hi, I'm Drajat Sukma
+<div align="center">
 
-**AI Trainer & Python Backend Specialist** building zero-intervention automation systems.
+# 👋 Hi there, I'm Drajat Sukma
 
-> *"I build systems that run themselves"*
+**AI Trainer & Python Backend Specialist | DevOps & Automation Engineer**
+
+*"I build systems that run themselves" — Zero-intervention automation advocate*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/drajat-sukma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=netlify)](https://ajatfnr.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:drajatsukmacareer@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Tangerang%2C%20Indonesia-yellow?style=flat&logo=google-maps)](https://maps.google.com/?q=Cikupa,Tangerang)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajatfnr21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajatfnr21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajatfnr21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -14,79 +36,95 @@
 | **Python Backend** | FastAPI, Django, Flask | 100K+ requests/day, <100ms latency |
 | **Automation Engineering** | Celery, Redis, Docker | 5K+ records/day, 99.9% uptime |
 | **Data Processing** | Pandas, PostgreSQL, ETL | 80% manual work reduction |
-
----
-
-## 📊 Metrics That Matter
-
-- **10,000+** data annotations completed
-- **95%+** quality assurance accuracy
-- **100,000+** daily API requests handled
-- **99.9%** system uptime maintained
-- **80%** manual work reduction typical
-- **5+ years** Python backend experience
+| **DevOps/SRE** | Kubernetes, AWS, CI/CD | Zero-downtime deployments |
+| **Web3/Blockchain** | Solidity, Web3.py, DeFi | Smart contract audits & trading bots |
 
 ---
 
 ## 🎯 Current Focus
 
-**Primary:** AI Training & Data Labeling ($40-60/hr)  
-**Secondary:** Python Backend Development ($60-100/hr)  
-**Goal:** Systems Architecture ($100-250/hr)
-
-**Availability:** 40+ hrs/week | **Response:** <24 hours  
-**Location:** Indonesia (Remote) | **Timezone:** WIB (UTC+7)
+- **Primary:** AI Training & Data Labeling ($40-60/hr)
+- **Secondary:** Python Backend Development ($60-100/hr)
+- **Specialization:** Industrial B2B Automation & Bioenergy Consulting
+- **Goal:** Delivering enterprise-grade automation solutions with measurable ROI
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Featured Projects
 
-**Languages:** Python (Expert), SQL (Proficient), Bash (Proficient)  
-**Frameworks:** FastAPI, Django, Flask, Celery  
-**Data:** Pandas, NumPy, OpenCV, Label Studio API  
-**Databases:** PostgreSQL, Redis, MongoDB  
-**DevOps:** Docker, Linux/Ubuntu, Git, Nginx  
-**ML/AI:** Data Annotation, Computer Vision, NLP
+<div align="center">
 
----
+### 🔥 Top Repositories
 
-## 📈 Featured Projects
+[![financial-trading-engine](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=financial-trading-engine&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/financial-trading-engine)
+[![data-processing-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=data-processing-pipeline&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/data-processing-pipeline)
 
-### [Distributed Task Queue](https://github.com/Ajatfnr21/distributed-task-queue)
-High-performance async processing with Redis backend  
-**Stack:** Python, Redis, Celery, FastAPI, Docker  
-**Metrics:** 10K+ tasks/day, 99.9% uptime
+[![ai-data-platform](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=ai-data-platform&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/ai-data-platform)
+[![webhook-relay](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=webhook-relay&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/webhook-relay)
 
-### [Data Labeling Pipeline](https://github.com/Ajatfnr21/data-labeling-pipeline)
-Automated image/text annotation with quality checks  
-**Stack:** Python, OpenCV, FastAPI, Label Studio API  
-**Metrics:** 5K+ records/day, 95%+ accuracy
-
-### [Trading Engine](https://github.com/Ajatfnr21/trading-engine)
-Real-time data processing and validation system  
-**Stack:** Python, WebSocket, PostgreSQL, Pandas  
-**Metrics:** Sub-second latency, 24/7 operation
+</div>
 
 ---
 
-## 💡 Why Work With Me
+## 📈 Metrics That Matter
 
-✅ **Zero-Intervention Automation** — Systems that run themselves  
-✅ **Systematic Reliability** — Diagnostic-first, every delivery tested  
-✅ **VPS-Native Workflow** — True 24/7 autonomous operation  
-✅ **Metric-Driven Results** — Concrete numbers, not promises  
-✅ **Full-Time Availability** — 40+ hrs/week, fast turnaround
+<div align="center">
 
----
+| Metric | Value |
+|--------|-------|
+| 🎯 **Data Annotations** | 10,000+ completed |
+| ✅ **QA Accuracy** | 95%+ maintained |
+| 🚀 **API Requests/Day** | 100,000+ handled |
+| ⏱️ **System Uptime** | 99.9% SLA |
+| 📉 **Manual Work Reduction** | 80% typical |
+| 🐍 **Python Experience** | 5+ years |
 
-## 📫 Contact
-
-- **Email:** drajatsukmacareer@gmail.com
-- **Upwork:** [Your Upwork Profile Link]
-- **LinkedIn:** https://www.linkedin.com/in/drajat-sukma
-
-**Open for:** AI Training, Data Labeling, Python Backend, Automation Engineering
+</div>
 
 ---
 
-*Resume available upon request*
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drajat-sukma)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ajatfnr.netlify.app)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drajatsukmacareer@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajatfnr21)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/AjatFnR)
+
+</div>
+
+---
+
+## 💼 Professional Bio
+
+> **AI Trainer & Python Backend Specialist** with expertise in building autonomous systems. 
+> Former Data Labeling Specialist at **Data Annotation** (10K+ annotations).
+> Currently consulting on **B2B Industrial Automation** and **Bioenergy Solutions** for PT Torabika Eka Semesta (Mayora Group).
+
+**Languages:** Indonesian (Native) | English (Fluent) | Mandarin (Developing)
+
+**Location:** Cikupa, Tangerang, Banten, Indonesia
+
+---
+
+<div align="center">
+
+### 🎵 When Not Coding
+
+*I'm producing music as **AjatFnR** on Spotify — blending fingerstyle guitar with modern production.*
+
+[![Spotify](https://img.shields.io/badge/Spotify-AjatFnR-1DB954?style=flat&logo=spotify)](https://open.spotify.com/artist/AjatFnR)
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Open for collaborations on AI training, Python backend systems, and industrial automation projects.**
+
+*[View my full portfolio →](https://ajatfnr.netlify.app)*
+
+</div>
