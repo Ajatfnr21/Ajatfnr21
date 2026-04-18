@@ -54,13 +54,20 @@
 
 <div align="center">
 
-### 🔥 Top Repositories
-
-[![financial-trading-engine](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=financial-trading-engine&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/financial-trading-engine)
-[![data-processing-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=data-processing-pipeline&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/data-processing-pipeline)
+### 🔥 AI & Data Engineering
 
 [![ai-data-platform](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=ai-data-platform&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/ai-data-platform)
-[![webhook-relay](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=webhook-relay&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/webhook-relay)
+[![data-processing-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=data-processing-pipeline&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/data-processing-pipeline)
+
+### 🔒 Web3 & Blockchain Security
+
+[![smart-contract-auditor](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=smart-contract-auditor&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/smart-contract-auditor)
+[![web3-security-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=web3-security-toolkit&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/web3-security-toolkit)
+
+### 📊 Analytics & Finance
+
+[![blockchain-analytics-engine](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=blockchain-analytics-engine&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/blockchain-analytics-engine)
+[![defi-risk-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Ajatfnr21&repo=defi-risk-analyzer&theme=tokyonight&hide_border=true)](https://github.com/Ajatfnr21/defi-risk-analyzer)
 
 </div>
 
