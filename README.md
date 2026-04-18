@@ -45,7 +45,7 @@
 
 - **Primary:** AI Training & Data Labeling ($40-60/hr)
 - **Secondary:** Python Backend Development ($60-100/hr)
-- **Specialization:** Industrial B2B Automation & Bioenergy Consulting
+- **Specialization:** Industrial B2B Automation & Process Optimization
 - **Goal:** Delivering enterprise-grade automation solutions with measurable ROI
 
 ---
@@ -99,9 +99,9 @@
 
 ## 💼 Professional Bio
 
-> **AI Trainer & Python Backend Specialist** with expertise in building autonomous systems. 
+> **AI Trainer & Python Backend Specialist** with expertise in building autonomous systems.
 > Former Data Labeling Specialist at **Data Annotation** (10K+ annotations).
-> Currently consulting on **B2B Industrial Automation** and **Bioenergy Solutions** for PT Torabika Eka Semesta (Mayora Group).
+> Passionate about creating zero-intervention automation solutions that drive measurable business results.
 
 **Languages:** Indonesian (Native) | English (Fluent) | Mandarin (Developing)
 
